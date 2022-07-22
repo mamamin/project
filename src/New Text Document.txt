@@ -1,0 +1,9 @@
+git push -u origin main
+git remote add origin https://github.com/AliKouchekzade/Project.git
+
+         Statement statement = connection.createStatement();
+        String x = "insert into users " +
+                "values ('negin','negin123',0,'negin@mail.com',1999,4,'baron',1) ";
+
+         //statement.execute(x);
+        // ResultSet resultSet = statement.executeQuery("select * from student");
